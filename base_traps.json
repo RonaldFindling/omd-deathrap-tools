@@ -1,0 +1,323 @@
+{    
+    "Acid Geyser": {
+        "name": "Acid Geyser",
+        "location": "floor",
+        "price": 800,
+        "damage": 36,
+        "reset time": 13,
+        "activation duration": 2,
+        "damage radius": 300,
+        "critical hit chance": 10
+    },
+    "Acid Shower": {
+        "name": "Acid Shower",
+        "location": "ceiling",
+        "price": 1300,
+        "damage": 36,
+        "reset time": 16,
+        "activation duration": 6,
+        "critical hit chance": 10
+    },
+    "Arrow Wall": {
+        "name": "Arrow Wall",
+        "location": "wall",
+        "price": 1300,
+        "damage": 48,
+        "reset time": 10,
+        "critical hit chance": 10
+    },
+    "Auto Crossbow": {
+        "name": "Auto Crossbow",
+        "location": "ceiling",
+        "tag": "ballista trap",
+        "price": 1000,
+        "damage": 120,
+        "reset time": 4,
+        "range": 2700,
+        "critical hit chance": 10
+    },
+    "Bomb Dispenser": {
+        "name": "Bomb Dispenser",
+        "location": "wall",
+        "tag": "bounce trap",
+        "price": 1300,
+        "damage": 600,
+        "reset time": 16,
+        "damage radius": 600,
+        "critical hit chance": 10
+    },
+    "Briar Patch": {
+        "name": "Briar Patch",
+        "location": "floor",
+        "tag": "organic trap",
+        "price": 1800,
+        "damage": 24,
+        "growth threshold": 1200,
+        "critical hit chance": 10
+    },
+    "Brimstone": {
+        "name": "Brimstone",
+        "location": "floor",
+        "price": 1000,
+        "damage": 60,
+        "reset time": 12,
+        "status effect damage": 25,
+        "status effect duration": 4,
+        "charges": 4,
+        "critical hit chance": 10
+    },
+    "Ceiling Laser": {
+        "name": "Ceiling Laser",
+        "location": "ceiling",
+        "price": 1000,
+        "damage": 72,
+        "reset time": 14,
+        "activation duration": 6,
+        "critical hit chance": 10
+    },
+    "Ceiling Pounder": {
+        "name": "Ceiling Pounder",
+        "location": "ceiling",
+        "price": 400,
+        "damage": 480,
+        "reset time": 10,
+        "critical hit chance": 10
+    },
+    "Cursed Ground": {
+        "name": "Cursed Ground",
+        "location": "floor",
+        "price": 1800,
+        "damage": 360,
+        "reset time": 10,
+        "bonus damage per sould": 10,
+        "critical hit chance": 10
+    },
+    "Flip Trap": {
+        "name": "Flip Trap",
+        "location": "floor",
+        "tag": "physics trap",
+        "price": 600,
+        "damage": 60,
+        "reset time": 14,
+        "critical hit chance": 10
+    },
+    "Grinder": {
+        "name": "Grinder",
+        "location": "wall",
+        "price": 1000,
+        "damage": 48,
+        "reset time": 14,
+        "jam threshold": 1200,
+        "critical hit chance": 10
+    },
+    "Haymaker": {
+        "name": "Haymaker",
+        "location": "ceiling",
+        "tag": "physics trap",
+        "price": 600,
+        "damage": 96,
+        "reset time": 10,
+        "activation duration": 4,
+        "critical hit chance": 10
+    },
+    "Hookshot": {
+        "name": "Hookshot",
+        "location": "ceiling",
+        "tag": "ballista trap",
+        "price": 1000,
+        "reset time": 15,
+        "range": 2700
+    },
+    "Ice Lance": {
+        "name": "Ice Lance",
+        "location": "ceiling",
+        "tag": "ballista trap",
+        "price": 1300,
+        "reset time": 17,
+        "status effect duration": 3,
+        "range": 2700,
+        "critical hit chance": 10
+
+    },
+    "Ice Vent": {
+        "name": "Ice Vent",
+        "location": "floor",
+        "price": 800,
+        "reset time": 16,
+        "status effect duration": 3,
+        "critical hit chance": 10
+
+    },
+    "Magic Orb": {
+        "name": "Magic Orb",
+        "location": "wall",
+        "tag": "bounce trap",
+        "price": 1300,
+        "damage": 240,
+        "reset time": 12,
+        "projectile lifetime": 6,
+        "critical hit chance": 10
+    },
+    "Minecart Dispenser": {
+        "name": "Minecart Dispenser",
+        "location": "floor",
+        "tag": "physics trap",
+        "price": 1800,
+        "damage": 120,
+        "reset time": 10,
+        "minecart health": 1000,
+        "critical hit chance": 10
+    },
+    "Molten Gold": {
+        "name": "Molten Gold",
+        "location": "ceiling",
+        "price": 1800,
+        "damage": 192,
+        "reset time": 14,
+        "activation duration": 7,
+        "critical hit chance": 10
+    },
+    "Morningstar Shooter": {
+        "name": "Morningstar Shooter",
+        "location": "wall",
+        "tag": "bounce trap",
+        "price": 1300,
+        "damage": 360,
+        "reset time": 15,
+        "projectile lifetime": 8,
+        "critical hit chance": 10
+    },
+    "Poison Flower": {
+        "name": "Poison Flower",
+        "location": "floor",
+        "tag": "organic trap",
+        "price": 1000,
+        "reset time": 15,
+        "cloud duration": 4,
+        "status effect damage": 20,
+        "status effect duration": 20,
+        "critical hit chance": 10
+    },
+    "Poison Gas Emmiter": {
+        "name": "Poison Gas Emmiter",
+        "location": "ceiling",
+        "price": 800,
+        "reset time": 20,
+        "cloud duration": 6,
+        "status effect damage": 20,
+        "status effect duration": 20,
+        "critical hit chance": 10
+    },
+    "Push Trap": {
+        "name": "Push Trap",
+        "location": "wall",
+        "tag": "physics trap",
+        "price": 400,
+        "damage": 60,
+        "reset time": 12,
+        "critical hit chance": 10
+    },
+    "Rift Barricade": {
+        "name": "Rift Barricade",
+        "location": "floor",
+        "price": 4000,
+        "health": 2500,
+        "damage boost": 25
+    },
+    "Rip Saw": {
+        "name": "Rip Saw",
+        "location": "floor",
+        "price": 800,
+        "damage": 420,
+        "reset time": 10,
+        "critical hit chance": 10
+    },
+    "Saw Blade Launcher": {
+        "name": "Saw Blade Launcher",
+        "location": "floor",
+        "tag": "bounce trap",
+        "price": 800,
+        "damage": 240,
+        "reset time": 14,
+        "projectile lifetime": 6,
+        "critical hit chance": 10
+    },
+    "Shock Zapper": {
+        "name": "Shock Zapper",
+        "location": "ceiling",
+        "price": 1300,
+        "damage": 600,
+        "reset time": 14,
+        "status effect durattion": 5,
+        "critical hit chance": 10
+    },
+    "Spike Trap": {
+        "name": "Spike Trap",
+        "location": "floor",
+        "price": 600,
+        "damage": 480,
+        "reset time": 14,
+        "critical hit chance": 10
+    },
+    "Spike Wall": {
+        "name": "Spike Trap",
+        "location": "wall",
+        "tag": "physics trap",
+        "price": 600,
+        "damage": 300,
+        "reset time": 15,
+        "critical hit chance": 10
+    },
+    "Steam Vent": {
+        "name": "Steam Vent",
+        "location": "floor",
+        "tag": "physics trap",
+        "price": 800,
+        "reset time": 18,
+        "activation duration": 2
+    },
+    "Swinging Mace": {
+        "name": "Swinging Mace",
+        "location": "ceiling",
+        "tag": "physics trap",
+        "price": 800,
+        "damage": 720,
+        "reset time": 10,
+        "critical hit chance": 10
+    },
+    "Tar Trap": {
+        "name": "Tar Trap",
+        "location": "floor",
+        "price": 600,
+        "slow duration": 2,
+        "slow percentage": 40
+    },
+    "Wall Blades": {
+        "name": "Wall Blades",
+        "location": "wall",
+        "price": 600,
+        "damage": 360,
+        "reset time": 10,
+        "critical hit chance": 10
+    },
+    "Wall Charger": {
+        "name": "Wall Charger",
+        "location": "wall",
+        "price": 1000,
+        "damage": 720,
+        "reset time": 14,
+        "status effect duration": 5,
+        "critical hit chance": 10
+    },
+    "Wall Scorcher": {
+        "name": "Wall Scorcher",
+        "location": "wall",
+        "price": 1300,
+        "damage": 36,
+        "reset time": 14,
+        "activation duration": 2,
+        "status effect damage": 25,
+        "status effect duration": 4,
+        "critical hit chance": 10
+    }
+}
