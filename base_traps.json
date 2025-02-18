@@ -7,7 +7,30 @@
         "reset time": 13,
         "activation duration": 2,
         "damage radius": 300,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "damage": {
+                "1": 39.6,
+                "2": 43.2,
+                "3": 46.8,
+                "4": 50.4,
+                "5": 54
+            },
+            "reset time": {
+                "1": 12.74,
+                "2": 12.48,
+                "3": 12.22,
+                "4": 11.96,
+                "5": 11.7
+            },
+            "activation duration": {
+                "1": 2.2,
+                "2": 2.4,
+                "3": 2.6,
+                "4": 2.8,
+                "5": 3
+            }
+        }
     },
     "Acid Shower": {
         "name": "Acid Shower",
@@ -16,7 +39,30 @@
         "damage": 36,
         "reset time": 16,
         "activation duration": 6,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "damage": {
+                "1": 39.6,
+                "2": 43.2,
+                "3": 46.8,
+                "4": 50.4,
+                "5": 54
+            },
+            "reset time": {
+                "1": 15.2,
+                "2": 14.4,
+                "3": 13.6,
+                "4": 12.8,
+                "5": 12
+            },
+            "activation duration": {
+                "1": 6,
+                "2": 6.3,
+                "3": 6.9,
+                "4": 7.2,
+                "5": 7.5
+            }
+        }
     },
     "Arrow Wall": {
         "name": "Arrow Wall",
