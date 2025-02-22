@@ -458,7 +458,30 @@
         "reset time": 17,
         "status effect duration": 3,
         "range": 2700,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "range": {
+                "1": 2970,
+                "2": 3240,
+                "3": 3510,
+                "4": 3780,
+                "5": 4050
+            },
+            "damage": {
+                "1": 264,
+                "2": 288,
+                "3": 312,
+                "4": 336,
+                "5": 360
+            },
+            "status effect duration": {
+                "1": 3.3,
+                "2": 3.6,
+                "3": 3.9,
+                "4": 4.2,
+                "5": 4.5
+            }
+        }
 
     },
     "Ice Vent": {
@@ -467,7 +490,30 @@
         "price": 800,
         "reset time": 16,
         "status effect duration": 3,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "damage": {
+                "1": 252,
+                "2": 264,
+                "3": 276,
+                "4": 288,
+                "5": 300
+            },
+            "status effect duration": {
+                "1": 3.3,
+                "2": 3.6,
+                "3": 3.9,
+                "4": 4.2,
+                "5": 4.5
+            }
+        }
 
     },
     "Magic Orb": {
@@ -478,7 +524,30 @@
         "damage": 240,
         "reset time": 12,
         "projectile lifetime": 6,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 1260,
+                "2": 1220,
+                "3": 1180,
+                "4": 1140,
+                "5": 1100
+            },
+            "damage": {
+                "1": 264,
+                "2": 288,
+                "3": 312,
+                "4": 336,
+                "5": 360
+            },
+            "projectile lifetime": {
+                "1": 6.3,
+                "2": 6.6,
+                "3": 6.9,
+                "4": 7.2,
+                "5": 7.5
+            }
+        }
     },
     "Minecart Dispenser": {
         "name": "Minecart Dispenser",
@@ -488,7 +557,30 @@
         "damage": 120,
         "reset time": 10,
         "minecart health": 1000,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "dispenser price": {
+                "1": 1760,
+                "2": 1720,
+                "3": 1680,
+                "4": 1640,
+                "5": 1600
+            },
+            "damage": {
+                "1": 192,
+                "2": 264,
+                "3": 336,
+                "4": 408,
+                "5": 480
+            },
+            "minecraft health": {
+                "1": 1100,
+                "2": 1200,
+                "3": 1300,
+                "4": 1400,
+                "5": 1500
+            }
+        }
     },
     "Molten Gold": {
         "name": "Molten Gold",
@@ -497,7 +589,30 @@
         "damage": 192,
         "reset time": 14,
         "activation duration": 7,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 1760,
+                "2": 1720,
+                "3": 1680,
+                "4": 1640,
+                "5": 1600
+            },
+            "damage": {
+                "1": 211.2,
+                "2": 230.4,
+                "3": 249.6,
+                "4": 268.8,
+                "5": 288
+            },
+            "activation duration": {
+                "1": 7.4,
+                "2": 7.8,
+                "3": 8.2,
+                "4": 8.6,
+                "5": 9
+            }
+        }
     },
     "Morningstar Shooter": {
         "name": "Morningstar Shooter",
@@ -507,7 +622,30 @@
         "damage": 360,
         "reset time": 15,
         "projectile lifetime": 8,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 1260,
+                "2": 1220,
+                "3": 1180,
+                "4": 1140,
+                "5": 1100
+            },
+            "damage": {
+                "1": 396,
+                "2": 432,
+                "3": 468,
+                "4": 504,
+                "5": 540
+            },
+            "projectile lifestime": {
+                "1": 8.4,
+                "2": 8.8,
+                "3": 9.2,
+                "4": 9.6,
+                "5": 10
+            }
+        }
     },
     "Poison Flower": {
         "name": "Poison Flower",
@@ -518,7 +656,30 @@
         "cloud duration": 4,
         "status effect damage": 20,
         "status effect duration": 20,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 960,
+                "2": 920,
+                "3": 880,
+                "4": 840,
+                "5": 800
+            },
+            "cloud duration": {
+                "1": 4.4,
+                "2": 4.8,
+                "3": 5.2,
+                "4": 5.6,
+                "5": 6
+            },
+            "status effect duration": {
+                "1": 22,
+                "2": 24,
+                "3": 26,
+                "4": 28,
+                "5": 30
+            }
+        }
     },
     "Poison Gas Emmiter": {
         "name": "Poison Gas Emmiter",
@@ -528,7 +689,30 @@
         "cloud duration": 6,
         "status effect damage": 20,
         "status effect duration": 20,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "reset time": {
+                "1": 19,
+                "2": 18,
+                "3": 17,
+                "4": 16,
+                "5": 15
+            },
+            "status effect duration": {
+                "1": 22,
+                "2": 24,
+                "3": 26,
+                "4": 28,
+                "5": 30
+            }
+        }
     },
     "Push Trap": {
         "name": "Push Trap",
@@ -537,14 +721,60 @@
         "price": 400,
         "damage": 60,
         "reset time": 12,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 380,
+                "2": 360,
+                "3": 340,
+                "4": 320,
+                "5": 300
+            },
+            "reset time": {
+                "1": 11.4,
+                "2": 10.8,
+                "3": 10.2,
+                "4": 9.6,
+                "5": 9
+            },
+            "damage": {
+                "1": 66,
+                "2": 72,
+                "3": 78,
+                "4": 84,
+                "5": 90
+            }
+        }
     },
     "Rift Barricade": {
         "name": "Rift Barricade",
         "location": "floor",
         "price": 4000,
         "health": 2500,
-        "damage boost": 25
+        "damage boost": 25,
+        "upgrades": {
+            "price": {
+                "1": 3800,
+                "2": 3600,
+                "3": 3400,
+                "4": 3200,
+                "5": 3000
+            },
+            "health": {
+                "1": 3000,
+                "2": 3500,
+                "3": 4000,
+                "4": 4500,
+                "5": 5000
+            },
+            "damage boost": {
+                "1": 30,
+                "2": 35,
+                "3": 40,
+                "4": 45,
+                "5": 50
+            }
+        }
     },
     "Rip Saw": {
         "name": "Rip Saw",
@@ -552,7 +782,30 @@
         "price": 800,
         "damage": 420,
         "reset time": 10,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "damage": {
+                "1": 462,
+                "2": 504,
+                "3": 546,
+                "4": 588,
+                "5": 630
+            },
+            "reset time": {
+                "1": 9.5,
+                "2": 9,
+                "3": 8.5,
+                "4": 8,
+                "5": 7.5
+            }
+        }
     },
     "Saw Blade Launcher": {
         "name": "Saw Blade Launcher",
@@ -562,7 +815,30 @@
         "damage": 240,
         "reset time": 14,
         "projectile lifetime": 6,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "damage": {
+                "1": 264,
+                "2": 288,
+                "3": 312,
+                "4": 336,
+                "5": 360
+            },
+            "projectile lifetime": {
+                "1": 6.3,
+                "2": 6.6,
+                "3": 6.9,
+                "4": 7.2,
+                "5": 7.5
+            }
+        }
     },
     "Shock Zapper": {
         "name": "Shock Zapper",
@@ -571,7 +847,30 @@
         "damage": 600,
         "reset time": 14,
         "status effect durattion": 5,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "reset time": {
+                "1": 13.3,
+                "2": 12.6,
+                "3": 11.9,
+                "4": 11.2,
+                "5": 10.5
+            },
+            "damage": {
+                "1": 660,
+                "2": 720,
+                "3": 780,
+                "4": 840,
+                "5": 900
+            },
+            "status effect duration": {
+                "1": 5.5,
+                "2": 6,
+                "3": 6.5,
+                "4": 7,
+                "5": 7.5
+            }
+        }
     },
     "Spike Trap": {
         "name": "Spike Trap",
@@ -579,7 +878,30 @@
         "price": 600,
         "damage": 480,
         "reset time": 14,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 580,
+                "2": 560,
+                "3": 540,
+                "4": 520,
+                "5": 500
+            },
+            "damage": {
+                "1": 528,
+                "2": 576,
+                "3": 624,
+                "4": 672,
+                "5": 720
+            },
+            "reset time": {
+                "1": 13.3,
+                "2": 12.6,
+                "3": 11.9,
+                "4": 11.2,
+                "5": 10.5
+            }
+        }
     },
     "Spike Wall": {
         "name": "Spike Trap",
@@ -588,7 +910,30 @@
         "price": 600,
         "damage": 300,
         "reset time": 15,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 580,
+                "2": 560,
+                "3": 540,
+                "4": 520,
+                "5": 500
+            },
+            "damage": {
+                "1": 396,
+                "2": 432,
+                "3": 468,
+                "4": 504,
+                "5": 540
+            },
+            "reset time": {
+                "1": 11.4,
+                "2": 10.8,
+                "3": 10.2,
+                "4": 9.6,
+                "5": 9
+            }
+        }
     },
     "Steam Vent": {
         "name": "Steam Vent",
@@ -596,7 +941,30 @@
         "tag": "physics trap",
         "price": 800,
         "reset time": 18,
-        "activation duration": 2
+        "activation duration": 2,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "activation duration": {
+                "1": 2.2,
+                "2": 2.4,
+                "3": 2.6,
+                "4": 2.8,
+                "5": 3
+            },
+            "reset time": {
+                "1": 17.1,
+                "2": 16.2,
+                "3": 15.4,
+                "4": 14.6,
+                "5": 13.5
+            }
+        }
     },
     "Swinging Mace": {
         "name": "Swinging Mace",
@@ -605,14 +973,60 @@
         "price": 800,
         "damage": 720,
         "reset time": 10,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 780,
+                "2": 760,
+                "3": 740,
+                "4": 720,
+                "5": 700
+            },
+            "damage": {
+                "1": 792,
+                "2": 864,
+                "3": 936,
+                "4": 1008,
+                "5": 1080
+            },
+            "reset time": {
+                "1": 9.5,
+                "2": 9,
+                "3": 8.5,
+                "4": 8,
+                "5": 7.5
+            }
+        }
     },
     "Tar Trap": {
         "name": "Tar Trap",
         "location": "floor",
         "price": 600,
         "slow duration": 2,
-        "slow percentage": 40
+        "slow percentage": 40,
+        "upgrades": {
+            "price": {
+                "1": 580,
+                "2": 560,
+                "3": 540,
+                "4": 520,
+                "5": 500
+            },
+            "slow duration": {
+                "1": 2.2,
+                "2": 2.4,
+                "3": 2.6,
+                "4": 2.8,
+                "5": 3
+            },
+            "slow percentage": {
+                "1": 43,
+                "2": 46,
+                "3": 49,
+                "4": 53,
+                "5": 55
+            }
+        }
     },
     "Wall Blades": {
         "name": "Wall Blades",
@@ -620,7 +1034,30 @@
         "price": 600,
         "damage": 360,
         "reset time": 10,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "price": {
+                "1": 580,
+                "2": 560,
+                "3": 540,
+                "4": 520,
+                "5": 500
+            },
+            "damage": {
+                "1": 396,
+                "2": 432,
+                "3": 468,
+                "4": 504,
+                "5": 540
+            },
+            "reset time": {
+                "1": 9.5,
+                "2": 9,
+                "3": 8.5,
+                "4": 8,
+                "5": 7.5
+            }
+        }
     },
     "Wall Charger": {
         "name": "Wall Charger",
@@ -629,7 +1066,30 @@
         "damage": 720,
         "reset time": 14,
         "status effect duration": 5,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "status effect duration": {
+                "1": 5.5,
+                "2": 6,
+                "3": 6.5,
+                "4": 7,
+                "5": 7.5
+            },
+            "damage": {
+                "1": 756,
+                "2": 792,
+                "3": 828,
+                "4": 864,
+                "5": 900
+            },
+            "reset time": {
+                "1": 13.3,
+                "2": 12.6,
+                "3": 11.9,
+                "4": 11.2,
+                "5": 10.5
+            }
+        }
     },
     "Wall Scorcher": {
         "name": "Wall Scorcher",
@@ -640,6 +1100,29 @@
         "activation duration": 2,
         "status effect damage": 25,
         "status effect duration": 4,
-        "critical hit chance": 10
+        "critical hit chance": 10,
+        "upgrades": {
+            "activation duration": {
+                "1": 2.2,
+                "2": 2.4,
+                "3": 2.6,
+                "4": 2.8,
+                "5": 3
+            },
+            "status effect damage": {
+                "1": 27.5,
+                "2": 30,
+                "3": 32.5,
+                "4": 35,
+                "5": 37.5
+            },
+            "status effect duration": {
+                "1": 4.5,
+                "2": 5,
+                "3": 5.5,
+                "4": 6,
+                "5": 6.5
+            }
+        }
     }
 }
